@@ -3,3 +3,17 @@
 ################################################################################
 
 /.vs
+/DuAnBanHang.Api/bin/Debug/netcoreapp3.1
+/DuAnBanHang.Api/obj
+/DuAnBanHang.App/bin/Debug/netcoreapp3.1
+/DuAnBanHang.App/obj
+/DuAnBanHang.Application/bin/Debug/netcoreapp3.1
+/DuAnBanHang.Application/obj
+/DuAnBanHang.Data/bin/Debug/netcoreapp3.1
+/DuAnBanHang.Data/obj
+/DuAnBanHang.Data.EF/bin/Debug/netcoreapp3.1
+/DuAnBanHang.Data.EF/obj
+/DuAnBanHang.Infrastructure/bin/Debug/netcoreapp3.1
+/DuAnBanHang.Infrastructure/obj
+/DuAnBanHang.Utilities/bin/Debug/netcoreapp3.1
+/DuAnBanHang.Utilities/obj
